@@ -13,7 +13,7 @@ body {
 }
 
 #book {
-	width: 75%;
+	width: 1050px;
 	margin: 0 auto;
 	background-image: linear-gradient(to bottom, #4e88bf, #f7fc92);
 }
